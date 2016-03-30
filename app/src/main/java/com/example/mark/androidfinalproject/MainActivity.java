@@ -63,6 +63,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         return super.onOptionsItemSelected(item);
     }
 
+    //tells how to silence phone
+    //http://stackoverflow.com/questions/3738724/silence-android-phone-in-java
     @Override
     public void onClick(View v) {
         switch(v.getId()){
