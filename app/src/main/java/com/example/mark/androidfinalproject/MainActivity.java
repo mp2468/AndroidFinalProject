@@ -13,12 +13,13 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity implements View.OnClickListener{
 
 
     private TextView deviceStatus;
     private Button busyButton, freeButton;
     private Handler myHandler = new Handler();
+    private boolean busy = false;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -60,5 +61,20 @@ public class MainActivity extends AppCompatActivity {
         }
 
         return super.onOptionsItemSelected(item);
+    }
+
+    @Override
+    public void onClick(View v) {
+        switch(v.getId()){
+            case R.id.makeBusy:
+                busy = true;
+                deviceStatus.setText("Busy now");
+                break;
+            case R.id.makeFree:
+                busy = false;
+                deviceStatus.setText("Free now");
+                break;
+        }
+
     }
 }
