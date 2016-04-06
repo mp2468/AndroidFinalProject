@@ -1,5 +1,6 @@
 package com.example.mark.androidfinalproject;
 
+import android.graphics.Color;
 import android.media.AudioManager;
 import android.os.Bundle;
 import android.os.Handler;
@@ -104,11 +105,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 busy = true;
                 //audiomanage.setRingerMode(AudioManager.RINGER_MODE_SILENT);
                 deviceStatus.setText("Busy now");
+                this.findViewById(android.R.id.content).setBackgroundColor(Color.RED);
                 toastIt("phone silenced...");
                 //myHandler.post(new busyWork());
                 break;
             case R.id.makeFree:
                 busy = false;
+                this.findViewById(android.R.id.content).setBackgroundColor(Color.WHITE);
                 deviceStatus.setText("Free now");
 
                 //myHandler.post(new busyWork());
