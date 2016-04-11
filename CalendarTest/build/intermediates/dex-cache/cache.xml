@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Dipoeke/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.20.0/d3e66209ae9e749b2d6833761e7885f60f285564/google-api-client-1.20.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
+        <dex dex="/Users/Dipoeke/Downloads/test/SensorApp/CalendarTest/app/build/intermediates/pre-dexed/debug/google-api-client-1.20.0_d7833d3f725aad9744cea7647d888991e41d18f2.jar" />
+    </item>
+    <item
+        jar="/Users/Dipoeke/.gradle/caches/modules-2/files-2.1/com.google.guava/guava-jdk5/13.0/381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7/guava-jdk5-13.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
+        <dex dex="/Users/Dipoeke/Downloads/test/SensorApp/CalendarTest/app/build/intermediates/pre-dexed/debug/guava-jdk5-13.0_3cd85ddf5b1008875922e9b75be2064a9b1834c3.jar" />
+    </item>
+    <item
+        jar="/Users/Dipoeke/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.20.0/2408070b2abec043624d35b35e30450f1b663858/google-http-client-jackson2-1.20.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2408070b2abec043624d35b35e30450f1b663858">
+        <dex dex="/Users/Dipoeke/Downloads/test/SensorApp/CalendarTest/app/build/intermediates/pre-dexed/debug/google-http-client-jackson2-1.20.0_d89b3e8252b82f53dd3c29374128b5e265c4d99c.jar" />
+    </item>
+    <item
+        jar="/Users/Dipoeke/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client-android/1.20.0/5673179575c32b69a474334255c3044adf18d40/google-api-client-android-1.20.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="05673179575c32b69a474334255c3044adf18d40">
+        <dex dex="/Users/Dipoeke/Downloads/test/SensorApp/CalendarTest/app/build/intermediates/pre-dexed/debug/google-api-client-android-1.20.0_dace8ec3a66ce8e00954acf9505a4eddb3461f5a.jar" />
+    </item>
+    <item
+        jar="/Users/Dipoeke/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-android/1.20.0/313dc99a7963523871495897ca11aa8472b3c6fd/google-http-client-android-1.20.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
+        <dex dex="/Users/Dipoeke/Downloads/test/SensorApp/CalendarTest/app/build/intermediates/pre-dexed/debug/google-http-client-android-1.20.0_c265ddf3c356b13d4e0ad9ccb4166ceb7b67ff01.jar" />
+    </item>
+    <item
+        jar="/Users/Dipoeke/.gradle/caches/modules-2/files-2.1/com.google.apis/google-api-services-calendar/v3-rev125-1.20.0/fef496f895ad5be86416863153d4efbf7b601f8a/google-api-services-calendar-v3-rev125-1.20.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef496f895ad5be86416863153d4efbf7b601f8a">
+        <dex dex="/Users/Dipoeke/Downloads/test/SensorApp/CalendarTest/app/build/intermediates/pre-dexed/debug/google-api-services-calendar-v3-rev125-1.20.0_3ea161b06154b3aa5b5f1b777e96e3bcba76ca65.jar" />
+    </item>
+    <item
+        jar="/Users/Dipoeke/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/Dipoeke/Downloads/test/SensorApp/CalendarTest/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_7def2c7f34dba605f7ef86fd3fda9b1f14946d69.jar" />
+    </item>
+    <item
+        jar="/Users/Dipoeke/Downloads/test/SensorApp/CalendarTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/Dipoeke/Downloads/test/SensorApp/CalendarTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_a0459e7408bbea27a6ba738d1ed286c6a1a02f98.jar" />
+    </item>
+    <item
+        jar="/Users/Dipoeke/Downloads/test/SensorApp/CalendarTest/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/Dipoeke/Downloads/test/SensorApp/CalendarTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_4655597fdef9c6814066e329b468889e6a6cb8e8.jar" />
+    </item>
+    <item
+        jar="/Users/Dipoeke/Downloads/test/SensorApp/CalendarTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/Dipoeke/Downloads/test/SensorApp/CalendarTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_1e4c3bc3e29a5d57cd96c649d6eb513786084f5c.jar" />
+    </item>
+    <item
+        jar="/Users/Dipoeke/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.1.3/f6c3aed1cdfa21b5c1737c915186ea93a95a58bd/jackson-core-2.1.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
+        <dex dex="/Users/Dipoeke/Downloads/test/SensorApp/CalendarTest/app/build/intermediates/pre-dexed/debug/jackson-core-2.1.3_8021cad5f0438b947eb6fe219de3051dd3e89998.jar" />
+    </item>
+    <item
+        jar="/Users/Dipoeke/Downloads/test/SensorApp/CalendarTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="/Users/Dipoeke/Downloads/test/SensorApp/CalendarTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-8.4.0_3abc9069ecd997213ff2a8c05db5d38f8f810e91.jar" />
+    </item>
+    <item
+        jar="/Users/Dipoeke/Downloads/test/SensorApp/CalendarTest/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/Dipoeke/Downloads/test/SensorApp/CalendarTest/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_9b8751fad6f7fcaa7e6c1a9c1f579a6ca3992df4.jar" />
+    </item>
+    <item
+        jar="/Users/Dipoeke/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client/1.20.0/93d82db2bca534960253f43424b2ba9d7638b4d2/google-http-client-1.20.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
+        <dex dex="/Users/Dipoeke/Downloads/test/SensorApp/CalendarTest/app/build/intermediates/pre-dexed/debug/google-http-client-1.20.0_3ed0039eff5b67cd6047e16b311c2ed9865863df.jar" />
+    </item>
+    <item
+        jar="/Users/Dipoeke/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.20.0/1d086ac5756475ddf451af2e2df6e288d18608ca/google-oauth-client-1.20.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
+        <dex dex="/Users/Dipoeke/Downloads/test/SensorApp/CalendarTest/app/build/intermediates/pre-dexed/debug/google-oauth-client-1.20.0_4a627b2c66646fbbb8b5f88e11e3c556e1dc8c7e.jar" />
+    </item>
+    <item
+        jar="/Users/Dipoeke/Downloads/test/SensorApp/CalendarTest/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/Dipoeke/Downloads/test/SensorApp/CalendarTest/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_134ac3c69c7e77a547a99cc088b4e1cdbf788322.jar" />
+    </item>
+    <item
+        jar="/Users/Dipoeke/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/1.3.9/40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf/jsr305-1.3.9.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
+        <dex dex="/Users/Dipoeke/Downloads/test/SensorApp/CalendarTest/app/build/intermediates/pre-dexed/debug/jsr305-1.3.9_df2093ae0883e6f45efdb33a9ce3646d03b696ab.jar" />
+    </item>
+    <item
+        jar="/Users/Dipoeke/Downloads/test/SensorApp/CalendarTest/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/Dipoeke/Downloads/test/SensorApp/CalendarTest/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_8b0f40b17d2e2500c7723e7c54399fd046f06028.jar" />
+    </item>
+    <item
+        jar="/Users/Dipoeke/Downloads/test/SensorApp/CalendarTest/app/build/intermediates/exploded-aar/pub.devrel/easypermissions/0.1.5/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2ffd97c466e0021572f3c7333839c71ecdf393ed">
+        <dex dex="/Users/Dipoeke/Downloads/test/SensorApp/CalendarTest/app/build/intermediates/pre-dexed/debug/pub.devrel-easypermissions-0.1.5_8575194d36147ccc134c9c00bf09c1b8f0ee1d91.jar" />
+    </item>
+    <item
+        jar="/Users/Dipoeke/Downloads/test/SensorApp/CalendarTest/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/Dipoeke/Downloads/test/SensorApp/CalendarTest/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_9b758c191e6eeb92fcb58b7989f8fe8d93462ba1.jar" />
+    </item>
+
+</items>
