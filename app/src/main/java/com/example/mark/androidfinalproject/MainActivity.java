@@ -1,5 +1,6 @@
 package com.example.mark.androidfinalproject;
 
+import android.content.Context;
 import android.graphics.Color;
 import android.media.AudioManager;
 import android.os.Bundle;
@@ -21,10 +22,17 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     private TextView deviceStatus;
     private Button busyButton, freeButton;
-    private Handler myHandler = new Handler();
+    //private Handler myHandler = new Handler();
     private boolean busy = false;
-    //AudioManager audiomanage = (AudioManager)getSystemService(this.AUDIO_SERVICE);
 
+    //AudioManager Amanage = (AudioManager) getSystemService(AUDIO_SERVICE);
+
+    AudioManager audiomanage;
+    //AudioManager audiomanage1 = (AudioManager)getSystemService(Context.AUDIO_SERVICE);
+
+
+
+    //Context.getSystemService(Context.AUDIO_SERVICE)
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -50,8 +58,15 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         freeButton.setOnClickListener(this);
 
         //myHandler.post(new busyWork());
-        Toast.makeText(this, "on create", Toast.LENGTH_LONG).show(); //debug toast
+        //Toast.makeText(this, "on create", Toast.LENGTH_LONG).show(); //debug toast
 
+        audiomanage = (AudioManager)getSystemService(this.AUDIO_SERVICE);
+
+
+       /* for some reason putting them here doesn't crash app, but also doesn't work, idk
+        AudioManager Amanage = (AudioManager) getSystemService(AUDIO_SERVICE);
+        Amanage.setRingerMode(AudioManager.RINGER_MODE_SILENT);
+        */
 
     }
 
@@ -103,7 +118,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         switch(v.getId()){
             case R.id.makeBusy:
                 busy = true;
-                //audiomanage.setRingerMode(AudioManager.RINGER_MODE_SILENT);
+                //Amanage.setRingerMode(AudioManager.RINGER_MODE_SILENT);
+                audiomanage.setRingerMode(AudioManager.RINGER_MODE_SILENT);
                 deviceStatus.setText("Busy now");
                 this.findViewById(android.R.id.content).setBackgroundColor(Color.RED);
                 toastIt("phone silenced...");
