@@ -127,6 +127,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 break;
             case R.id.makeFree:
                 busy = false;
+                //audiomanage.setRingerMode(AudioManager.RINGER_MODE_NORMAL);
+                audiomanage.setRingerMode(AudioManager.RINGER_MODE_VIBRATE);
                 this.findViewById(android.R.id.content).setBackgroundColor(Color.WHITE);
                 deviceStatus.setText("Free now");
 
